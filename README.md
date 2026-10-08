@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/gokulj6527-cloud">
-    <img src="https://img.shields.io/github/followers/gokulj6527-cloud?label=Followers&style=for-the-badge&color=blue" />
+    
   </a>
   <img src="https://komarev.com/ghpvc/?username=gokulj6527-cloud&style=for-the-badge&color=blue" />
 </p>

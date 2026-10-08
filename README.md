@@ -1,16 +1,56 @@
-## Hi there 👋
+# 👋 Hey, I'm Gokul
 
-<!--
-**gokulj6527-cloud/gokulj6527-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Science Student | Java | DSA | AI | Python | SQL
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Java+%7C+Python+%7C+SQL;DSA+%7C+Problem+Solving;AI+%7C+Building+Real+World+Projects" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://github.com/gokulj6527-cloud">
+    <img src="https://img.shields.io/github/followers/gokulj6527-cloud?label=Followers&style=for-the-badge&color=blue" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=gokulj6527-cloud&style=for-the-badge&color=blue" />
+</p>
+
+---
+
+## 🚀 About Me
+
+🎓 Computer Science Engineering Student at **Amrita**
+
+💻 Currently building my skills in **Java, Python, DSA and SQL**
+
+🧠 Interested in **Data Structures, Algorithms and Problem Solving**
+
+🤖 Exploring **Artificial Intelligence and AI-powered applications**
+
+🌐 Building practical projects that solve real-world problems
+
+📚 Currently focused on becoming a stronger **Software Developer**
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,c,js,sql" />
+</p>
+
+### 🌐 Web & Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
+</p>
+
+### 🧠 Currently Learning
+
+```text
+DSA
+Algorithms
+AI / ML
+Database Management
+Software Development
+Problem Solving

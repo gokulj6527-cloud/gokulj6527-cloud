@@ -10,7 +10,7 @@
   <a href="https://github.com/gokulj6527-cloud">
     
   </a>
-  <img src="https://komarev.com/ghpvc/?username=gokulj6527-cloud&style=for-the-badge&color=blue" />
+  
 </p>
 
 ---
